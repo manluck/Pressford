@@ -1,0 +1,9 @@
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\bin\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.deps.json
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\bin\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.dll
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\bin\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.pdb
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.AssemblyInfoInputs.cache
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.AssemblyInfo.cs
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.dll
+D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.EntityFramework\obj\Debug\netstandard2.0\KPMG.PressfordConsulting.EntityFramework.pdb

@@ -1,11 +1,8 @@
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\KPMG.PressfordConsulting.Data.dll.config
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\KPMG.PressfordConsulting.Data.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\KPMG.PressfordConsulting.Data.pdb
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\ClassLibrary1.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\EntityFramework.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\EntityFramework.SqlServer.dll
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\ClassLibrary1.pdb
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\ClassLibrary1.dll.config
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\EntityFramework.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Data\obj\Debug\KPMG.PressfordConsulting.Business.csprojResolveAssemblyReference.cache

@@ -55,12 +55,6 @@
     <Folder Include="Factories\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\KPMG.PressfordConsulting.EntityFramework.csproj">
-      <Project>{18a927d1-83f2-4739-b0b2-32e30587b9e1}</Project>
-      <Name>KPMG.PressfordConsulting.EntityFramework</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>

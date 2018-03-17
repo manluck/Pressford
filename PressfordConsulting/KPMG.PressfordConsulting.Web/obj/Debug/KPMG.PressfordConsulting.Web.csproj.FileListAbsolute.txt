@@ -98,13 +98,14 @@ D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\De
 D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\PressfordConsulting.dll
 D:\Manish\Study\KPMGTest\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\PressfordConsulting.pdb
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\ApplicationInsights.config
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\PressfordConsulting.dll.config
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\PressfordConsulting.dll
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\PressfordConsulting.pdb
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.Web.dll.config
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.Web.dll
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.Web.pdb
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Antlr3.Runtime.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Castle.Core.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\EntityFramework.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\EntityFramework.SqlServer.dll
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.EntityFramework.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Microsoft.AI.Agent.Intercept.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Microsoft.AI.DependencyCollector.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -150,6 +151,8 @@ D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\System.Web.WebPages.Razor.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\WebActivatorEx.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\WebGrease.dll
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.EntityFramework.pdb
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\KPMG.PressfordConsulting.EntityFramework.dll.config
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Antlr3.Runtime.pdb
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\EntityFramework.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\EntityFramework.SqlServer.xml
@@ -194,5 +197,5 @@ D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\bin\Microsoft.AI.Web.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\KPMG.PressfordConsulting.Web.csprojResolveAssemblyReference.cache
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\KPMG.PressfordConsulting.Web.csproj.CoreCompileInputs.cache
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\PressfordConsulting.dll
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\PressfordConsulting.pdb
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\KPMG.PressfordConsulting.Web.dll
+D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Web\obj\Debug\KPMG.PressfordConsulting.Web.pdb

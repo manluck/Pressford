@@ -1,0 +1,27 @@
+{
+  "name": "kpmg.pressfoldconsulting.frontend",
+  "version": "1.0.0",
+  "description": "A small test app for kpmg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"mocha test -u bdd -R spec\" && exit 1",
+    "start": "echo \"Running Start script\" && exit 1",
+    "stop": "echo \"Running Stop script\" && exit 1",
+    "start:dev": "echo \"Running start:dev script\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manluck/KPMG.PressfoldConsulting.Frontend.git"
+  },
+  "author": "Manish Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manluck/KPMG.PressfoldConsulting.Frontend/issues"
+  },
+  "homepage": "https://github.com/manluck/KPMG.PressfoldConsulting.Frontend#readme",
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "should": "^13.2.1",
+    "typescript": "^2.7.2"
+  }
+}

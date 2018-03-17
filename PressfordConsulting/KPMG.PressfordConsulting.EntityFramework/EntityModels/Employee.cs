@@ -8,6 +8,7 @@ namespace KPMG.PressfordConsulting.EntityFramework.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime JoiningDate { get; set; }
+        public string LikedArticles { get; set; }
 
         public virtual Publisher Publisher { get; set; }
     }

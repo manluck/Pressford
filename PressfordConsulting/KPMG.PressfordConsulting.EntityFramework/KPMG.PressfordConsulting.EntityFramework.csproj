@@ -7,8 +7,8 @@
     <ProjectGuid>{18A927D1-83F2-4739-B0B2-32E30587B9E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
-    <AssemblyName>ClassLibrary1</AssemblyName>
+    <RootNamespace>KPMG.PressfordConsulting.EntityFramework</RootNamespace>
+    <AssemblyName>KPMG.PressfordConsulting.EntityFramework</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

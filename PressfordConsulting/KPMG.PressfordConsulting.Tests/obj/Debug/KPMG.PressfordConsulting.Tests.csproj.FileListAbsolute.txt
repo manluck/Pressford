@@ -64,7 +64,6 @@ D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\bi
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\bin\Debug\System.Web.WebPages.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\bin\Debug\System.Web.WebPages.Razor.xml
-D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\obj\Debug\KPMG.PressfordConsulting.Tests.csprojResolveAssemblyReference.cache
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\obj\Debug\KPMG.PressfordConsulting.Tests.csproj.CoreCompileInputs.cache
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\obj\Debug\KPMG.PressfordConsulting.Tests.dll
 D:\Manish\GitHub\Pressford\PressfordConsulting\KPMG.PressfordConsulting.Tests\obj\Debug\KPMG.PressfordConsulting.Tests.pdb
